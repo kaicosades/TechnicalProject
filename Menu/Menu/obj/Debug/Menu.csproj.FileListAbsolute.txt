@@ -1,0 +1,11 @@
+C:\Users\Александр\source\repos\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\Александр\source\repos\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\Александр\source\repos\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\Александр\source\repos\Menu\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\Menu\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\Александр\source\repos\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Александр\source\repos\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\Александр\source\repos\Menu\Menu\obj\Debug\Menu.pdb
+C:\Users\Александр\source\repos\Menu\Menu\obj\Debug\Menu.Basket.resources
